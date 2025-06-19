@@ -32,7 +32,7 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 - **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
 - **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
-# 🛠️ Features Overview
+# 🛠️ Feature Breakdown
 
 ## 1. API Documentation
 - **OpenAPI Standard**: The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
