@@ -64,7 +64,7 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 - **Caching**: Use caching strategies to reduce database load and improve performance.
 
 
-## 🔑 Key Entities and Fields
+## 🔑 Database Design       
 ### 1. Users
 Represents people using the platform, either as guests or property owners.
 
@@ -296,7 +296,7 @@ erDiagram
 - **Risks**: Data breaches, performance issues under attack.
 - **Security**: Indexing and caching improve performance; firewalls and access restrictions protect integrity.
 
-##  CI/CD Pipeline Overview
+##  CI/CD Pipeline
 
 CI/CD pipelines are automated workflows used in software development to streamline and accelerate the process of building, testing, and deploying code.
 
